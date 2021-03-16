@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "userId": 1232354435456547,
+    "name": "Personagem sem nome",
+    "thumbnailURL": "",
+    "class": "Sem classe",
+    "race": "Sem raça",
+    "health": 175,
+    "attributes": {
+        "charism": 0,
+        "strength": 0,
+        "dexterity": 0,
+        "intelligence": 0,
+        "wiseness": 0,
+        "faith": 0,
+        "maxHealth": 0
+    }
+}

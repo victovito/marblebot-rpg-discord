@@ -1,0 +1,207 @@
+{
+    "gameMasterId": "211565412402462721",
+    "currentId": 4,
+    "players": [
+        {
+            "id": 0,
+            "userId": "211565412402462721",
+            "name": "Vidalf Grangfisher",
+            "thumbnailURL": "https://media.discordapp.net/attachments/333100163797352458/725196631288578139/1e77b198fdb0d60b0058c4cd068c47ec.png",
+            "class": "Feiticeiro (Piromante)",
+            "race": "Humano",
+            "health": 130,
+            "maxHealth": 130,
+            "attributes": {
+                "charism": 11,
+                "strength": 9,
+                "dexterity": 14,
+                "intelligence": 15,
+                "wiseness": 10,
+                "faith": 6
+            }
+        },
+        {
+            "id": 1,
+            "userId": "700503887198552136",
+            "name": "Erinstella Chase",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/706223524553031744/725436200181170226/Human_female_fighter_paladin.jpg",
+            "class": "Paladina",
+            "race": "Humana",
+            "health": 180,
+            "maxHealth": 180,
+            "attributes": {
+                "charism": 6,
+                "strength": 13,
+                "dexterity": 10,
+                "intelligence": 8,
+                "wiseness": 6,
+                "faith": 16
+            }
+        },
+        {
+            "id": 2,
+            "userId": "333048863126716416",
+            "name": "Anariam",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/724849234666324009/725417266484740177/unknown.png",
+            "class": "Druida",
+            "race": "Elfa",
+            "health": 130,
+            "maxHealth": 130,
+            "attributes": {
+                "charism": 10,
+                "strength": 18,
+                "dexterity": 16,
+                "intelligence": 20,
+                "wiseness": 20,
+                "faith": 8
+            }
+        },
+        {
+            "id": 3,
+            "userId": "165256054861463552",
+            "name": "Fabio",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725459083330584586/725488055611424808/jpkc7d11yq651.webp",
+            "class": "Otaku",
+            "race": "Macaco",
+            "health": 150,
+            "maxHealth": 150,
+            "attributes": {
+                "charism": 999999999999,
+                "strength": 1000,
+                "dexterity": 12392384,
+                "intelligence": 2345283741234,
+                "wiseness": 234543543895,
+                "faith": 234345
+            }
+        }
+    ],
+    "currentEId": 15,
+    "enemies": [
+        {
+            "id": 0,
+            "name": "Goblin",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725139530641965176/Goblin_da_floresta.jpg",
+            "type": "Goblin",
+            "health": 100,
+            "maxHealth": 100,
+            "damage": 10
+        },
+        {
+            "id": 1,
+            "name": "Ogro da Floresta",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725139801392545872/Inimigo_da_floresta.jpg",
+            "type": "Ogro",
+            "health": 200,
+            "maxHealth": 200,
+            "damage": 20
+        },
+        {
+            "id": 2,
+            "name": "Força Definitiva da Natureza",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725140188308963338/Chefe_da_floresta.jpg",
+            "type": "Desconhecido",
+            "health": 300,
+            "maxHealth": 300,
+            "damage": 25
+        },
+        {
+            "id": 3,
+            "name": "Esqueleto",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725140813499334696/Caveira_inical.jpg",
+            "type": "Desarmado",
+            "health": 50,
+            "maxHealth": 50,
+            "damage": 5
+        },
+        {
+            "id": 4,
+            "name": "Esqueleto",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725140939311546399/Caveira_guerreira.jpg",
+            "type": "Mace",
+            "health": 65,
+            "maxHealth": 65,
+            "damage": 15
+        },
+        {
+            "id": 5,
+            "name": "Esqueleto",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725141031175192636/Caveira_ranger.jpg",
+            "type": "Ranger",
+            "health": 50,
+            "maxHealth": 50,
+            "damage": 20
+        },
+        {
+            "id": 6,
+            "name": "Esqueleto",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725141187983573033/Caveira_rogue.jpg",
+            "type": "Rogue",
+            "health": 30,
+            "maxHealth": 30,
+            "damage": 40
+        },
+        {
+            "id": 7,
+            "name": "Esqueleto Mestre",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725141313543995392/Caveira_parruda.jpg",
+            "type": "Guerreiro",
+            "health": 200,
+            "maxHealth": 200,
+            "damage": 25
+        },
+        {
+            "id": 8,
+            "name": "Yatlach",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725141993117974549/Chefe_caverna.jpg",
+            "type": "Summoner",
+            "health": 600,
+            "maxHealth": 600,
+            "damage": 35
+        },
+        {
+            "id": 9,
+            "name": "Glacial Wolf",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725142193685135450/Glacial_wolf.jpg",
+            "type": "Animal",
+            "health": 75,
+            "maxHealth": 75,
+            "damage": 15
+        },
+        {
+            "id": 10,
+            "name": "Num'ra",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725142344134950982/Inimigo_mais_forte.jpg",
+            "type": "Glacial Troll",
+            "health": 300,
+            "maxHealth": 300,
+            "damage": 45
+        },
+        {
+            "id": 11,
+            "name": "Gel'ra",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725142623433523260/Pet_stronger_enemy.jpg",
+            "type": "Desconhecido",
+            "health": 300,
+            "maxHealth": 300,
+            "damage": 30
+        },
+        {
+            "id": 12,
+            "name": "Ice Elemental",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/725138922732126421/725236565550432256/Ice_elemental.jpg",
+            "type": "Elemental",
+            "health": 500,
+            "maxHealth": 500,
+            "damage": 45
+        },
+        {
+            "id": 13,
+            "name": "Syllblet",
+            "thumbnailURL": "https://cdn.discordapp.com/attachments/707071143260979220/725439348723417144/Sylblet.jpg",
+            "type": "Deus",
+            "health": 1000,
+            "maxHealth": 1000,
+            "damage": 50
+        }
+    ]
+}
